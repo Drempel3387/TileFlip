@@ -3,7 +3,7 @@
 #include <iostream>
 #include <chrono>
 #include <thread>
-
+//gm
 const int TWOMORE = 2;
 const int ZERO = 0;
 const int STARTVAL = -1;
